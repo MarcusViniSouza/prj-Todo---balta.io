@@ -1,0 +1,5 @@
+li button {
+  align-items: flex-end;
+  margin-right: 5px;
+  border-radius: 8px solid;
+}
