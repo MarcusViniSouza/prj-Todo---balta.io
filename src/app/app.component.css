@@ -1,3 +1,7 @@
+fieldset {
+  border: transparent;
+}
+
 li button {
   align-items: flex-end;
   margin-right: 5px;
